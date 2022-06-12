@@ -1,0 +1,52 @@
+body {
+
+}
+
+#iphone {
+	width: 100%;
+}
+
+.loja {
+	background: #008080;
+	padding: 10px;
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#objetivo {
+	font-size: 30px
+}
+
+strong {
+	color: #000000;
+}
+
+.itens {
+	font-style: oblique;
+	}
+
+.logo {
+	background: #FFFFFF;
+	padding: 00px;
+}
+
+h2 {
+	text-align: center;
+}
+ul {
+	display: inline-block;
+	text-decoration: underline;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 20%;
+}
+
+.logo {
+	width: 50%;
+}
